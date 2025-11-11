@@ -1,16 +1,40 @@
-# where_am_i_ui
+# 🌍 Where Am I (UI Mock App)
 
-A new Flutter project.
+A modern **Flutter-based accessibility navigation app**, designed as a **mock UI prototype** for indoor navigation assistance.  
+This project visualizes the interaction flow for visually impaired users — including speech rate adjustment, UI color modes, and voice feedback simulation.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 🏠 **Home Screen** — Quick access to "Where Am I", Navigation, Favorites, and Emergency functions  
+- 🔍 **Search Screen** — Type or simulate voice input to find ECSW building classrooms (e.g., *ECSW 1.355, 1.365, 1.385*)  
+- 🧭 **Navigation Screen** — Mock step-by-step directions with sonar ping simulation  
+- ⚙️ **Settings Screen** — Customize **Speech Rate**, **Voice Type**, **Voice Intensity**, and **UI color themes** (colorblind-friendly)  
+- ❤️ **Favorites Screen** — Save frequently visited classrooms  
+- 🚨 **Emergency Screen** — Accessible button layout for quick response
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🖼️ UI Preview
+*(Designed in Figma, implemented in Flutter)*  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home Screen | Search | Settings | Navigation |
+|--------------|---------|-----------|-------------|
+| ![Home](assets/images/home_preview.png) | ![Search](assets/images/search_preview.png) | ![Settings](assets/images/settings_preview.png) | ![Nav](assets/images/navigation_preview.png) |
+
+> 💡 *UI shown above is mockup only — no real navigation or GPS logic is implemented.*
+
+---
+
+## ⚙️ Installation
+### Prerequisites
+- Flutter SDK (>=3.6.0)
+- Dart SDK
+- Android Studio / VS Code with Flutter extension
+
+### Clone & Run
+```bash
+git clone https://github.com/SE4351group/where_am_i_ui.git
+cd where_am_i_ui
+flutter pub get
+flutter run

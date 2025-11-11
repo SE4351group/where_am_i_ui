@@ -20,7 +20,7 @@ This project visualizes the interaction flow for visually impaired users — inc
 
 | Home Screen | Search | Settings | Navigation |
 |--------------|---------|-----------|-------------|
-| ![Home](assets/images/home_preview.png) | ![Search](assets/images/search_preview.png) | ![Settings](assets/images/settings_preview.png) | ![Nav](assets/images/navigation_preview.png) |
+| ![Home](https://github.com/SE4351group/where_am_i_ui/blob/main/Home%20Screen.png) | ![Search](https://github.com/SE4351group/where_am_i_ui/blob/main/Search%20Screen.png) | ![Settings](https://github.com/SE4351group/where_am_i_ui/blob/main/Settings%20Screen.png) | ![Nav](https://github.com/SE4351group/where_am_i_ui/blob/main/Navigation%20Screen.png) |
 
 > 💡 *UI shown above is mockup only — no real navigation or GPS logic is implemented.*
 

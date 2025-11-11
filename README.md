@@ -1,6 +1,6 @@
 # 🌍 Where Am I (UI Mock App)
 
-A modern **Flutter-based accessibility navigation app**, designed as a **mock UI prototype** for indoor navigation assistance.  
+A modern **Flutter-based accessibility navigation app**, designed as a **mock UI prototype** for indoor navigation assistance for blind people.  
 This project visualizes the interaction flow for visually impaired users — including speech rate adjustment, UI color modes, and voice feedback simulation.
 
 ---
